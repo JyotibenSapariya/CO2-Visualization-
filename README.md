@@ -7,5 +7,5 @@ The following CO2 thresholds for the visualization:</br>
 - Red: > 2000 pm</br>
 
 <p align="center">
-  <img src="/public/co2.PNG" width="350"/>
+  <img src="/public/co2.PNG" width="100%" height="100%"/>
 </p>
